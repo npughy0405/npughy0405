@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @npughy0405
+- 👋 Hi, I’m @lighthumoursense
+  
 - 👀 I’m interested in learning new code experience and being able to make my own decision without regretting. 
 - 🌱 I’m currently learning how to code basically using JAVA.
 
